@@ -1,0 +1,22 @@
+{
+  "name": "cheq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nos",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "lodash": "^4.17.11",
+    "mysql": "^2.16.0",
+    "redux": "^4.0.1",
+    "xmldom": "^0.1.27"
+  }
+}
